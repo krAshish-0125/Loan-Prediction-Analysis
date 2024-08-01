@@ -23,12 +23,11 @@ Loan_Status	Loan approved (Y/N)
 Download link:https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
 
 **Libraries**
- -numpy-
--pandas
-.matplotlib
-.seaborn
+`numpy`
 
-*Algorithms*
+
+
+**Algorithms**
 *Logistic Regression*
 *Decision Tree*
 *Random Forest*
