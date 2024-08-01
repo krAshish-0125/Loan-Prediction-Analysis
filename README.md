@@ -24,11 +24,13 @@ Download link:https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-d
 
 **Libraries**
 `numpy`
-
+`pandas`
+`matplotlb`
+`seaborn`
 
 
 **Algorithms**
-*Logistic Regression*
-*Decision Tree*
-*Random Forest*
+`Logistic Regression`
+`Decision Tree`
+`Random Forest`
 *Extra Tress*
